@@ -36,7 +36,7 @@ function App() {
                         fileSrc ? (
                             <img src={fileSrc} alt="uploaded" />
                         ) : (
-                            <p>No image selected.</p>
+                            <p>No image seleacted.</p>
                         )
                     }
                 </div>
